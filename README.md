@@ -21,6 +21,7 @@ The posts I make are a collection of thought experiments and problem solving app
 
 Because of this, my posts should be read as explorations about the topics I choose to write about. I welcome any thoughtful discussions about my posts.
 
+<!-- This is practice from the Writing Quickstart Tutorial. -->
 ### Formatting Practice 
 - Inserting a Picture: Here is my favorite math meme to date.
 <picture>
@@ -29,8 +30,9 @@ Because of this, my posts should be read as explorations about the topics I choo
   <img alt="A four frame cartoon showing how 'carrying the one' in arithmetic is sometimes redundant and unhelpful." src="Favorite Math Meme.jpg">
 </picture>
 
-- Adding a Table: Here is my top 5 rank of favorite classes I've taken at Georgia Southern University to date.
-
+<details>
+<summary> Adding a Table: Here is my top 5 rank of favorite classes I've taken at Georgia Southern University to date. </summary>
+  
 | Rank | Class Name |
 |-----:|------------|
 |     1| Mathematical Structures |
@@ -39,3 +41,10 @@ Because of this, my posts should be read as explorations about the topics I choo
 |     4| Discrete Mathematics |
 |     5| Intermediate Macroeconomics |
 |    HM| Eonomomic Development |
+
+</details>
+
+- Inserting a Quote
+---
+> "In a long term perspective the movement from qualitative to quantitative perception was consistent with the triumph of a civilaization which was to achieve unprecedented control over its environment."
+- Maurice W. Kirby in "Operational Research in War and Peace"(2003)
