@@ -20,8 +20,3 @@ In everything I do, I aim to remain optimistic for the things to come, reflectiv
 The posts I make are a collection of thought experiments and problem solving approaches about my fields of interest. Ranging from overviews of prominent academic papers to conducting data analyses and tests, this blog is meant to present ideas that can bring insight as I learn about these fields. These posts are my public thought record for learning and not necessarily for ground-breaking results.
 
 Because of this, my posts should be read as explorations about the topics I choose to write about. I welcome any thoughtful discussions about my posts.
-
-### Formatting Practice 
-- Inserting a Picture: Here is my favorite math meme to date.
-<picture>
-  <source media = "(prefers-color-scheme: dark)" scrset = 
