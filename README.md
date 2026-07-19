@@ -1,4 +1,4 @@
-# Herb5ster
+# Herb5ter
 ## Personal Learning Blog
 
 ### About Me
