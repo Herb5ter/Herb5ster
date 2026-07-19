@@ -24,4 +24,18 @@ Because of this, my posts should be read as explorations about the topics I choo
 ### Formatting Practice 
 - Inserting a Picture: Here is my favorite math meme to date.
 <picture>
-  <source media = "(prefers-color-scheme: dark)" scrset = 
+  <source media="(prefers-color-scheme: dark)" srcset="Favorite Math Meme.jgp">
+  <source media="(prefers-color-scheme: light)" srcset="Favorite Math Meme.jpg">
+  <img alt="A four frame cartoon showing how 'carrying the one' in arithmetic is sometimes redundant and unhelpful." src="Favorite Math Meme.jpg">
+</picture>
+
+- Adding a Table: Here is my top 5 rank of favorite classes I've taken at Georgia Southern University to date.
+
+| Rank | Class Name |
+|-----:|------------|
+|     1| Mathematical Structures |
+|     2| Economics of Education |
+|     3| Intermediate Linear Algebra |
+|     4| Discrete Mathematics |
+|     5| Intermediate Macroeconomics |
+|    HM| Eonomomic Development |
