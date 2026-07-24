@@ -46,5 +46,9 @@ Because of this, my posts should be read as explorations about the topics I choo
 
 - Inserting a Quote
 ---
-> "In a long term perspective the movement from qualitative to quantitative perception was consistent with the triumph of a civilaization which was to achieve unprecedented control over its environment."
+> "In a long term perspective the movement from qualitative to quantitative perception was consistent with the triumph of a civilization which was to achieve unprecedented control over its environment."
 - Maurice W. Kirby in "Operational Research in War and Peace"(2003)
+
+- Using a HEX color model
+My two favorite colors are `#002D04` and `#191970`.
+Why won't this work? Because HEX code is only supported on issues, pull requests, and dicussions, not markdown files. 
